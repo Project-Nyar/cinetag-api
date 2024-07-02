@@ -23,6 +23,12 @@
             "titulo": "Dart, o Caçador de Andróides",
             "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
             "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        },
+        {
+            "id": 5,
+            "titulo": "Emprego no Japão: O que da pra comprar com salário? + Mercado japones",
+            "capa": "https://i.ytimg.com/vi/liMUmYRA1e8/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/liMUmYRA1e8?si=JSb4PHHZZMv5yc4a"
         }
     ]
 }
